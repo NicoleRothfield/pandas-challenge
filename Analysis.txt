@@ -1,0 +1,8 @@
+Heroes of Pymoli Analysis
+-------------------------
+
+1) Male users represent the majority of the players.
+
+2) The age range from 15-24 years represents the majority of the players and total purchase value, but Average Total Purchase per Person is the highest in the age 35-39 group. 
+
+3) To grow the Heroes of Pymoli game, I would suggest increasing target marketing to the male age groups from 15 - 24 year olds to grow their current target.
